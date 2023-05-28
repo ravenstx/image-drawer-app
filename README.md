@@ -8,8 +8,9 @@
 
 https://github.com/ravenstx/image-drawer-app/assets/103364044/ab0aa0f8-5bbb-415e-b0b7-389055b3f085
 
-
-### This project was made with React and Canvas API
+## Introduction
+A SPA react app that let’s the user draw on an image and download the edited image 
+It was built with React and Canvas API
 
 ## Installation
 
